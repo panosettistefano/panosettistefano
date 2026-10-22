@@ -7,70 +7,104 @@
 ╚══════╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-<h3 align="center">Cybersecurity · Threat Intelligence · Security Analysis</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/stefano-panosetti-51b65b1b0">LinkedIn</a> •
-  <a href="https://panosettistefano.github.io/portfolio/">Portfolio</a>
-</p>
+# Stefano Panosetti
+
+### Full-Stack Development · Cybersecurity · Secure Software
+
+`Building applications` · `Understanding systems` · `Thinking about security`
+
+[LinkedIn](https://www.linkedin.com/in/stefano-panosetti-51b65b1b0) · [Portfolio](https://panosettistefano.github.io/portfolio/)
+
+</div>
 
 ---
 
-### `whoami`
+## `$ whoami`
 
-ICT student at ITS Academy Abruzzo, focused on cybersecurity, OSINT and application security.
+I'm an ICT student at ITS Academy Abruzzo interested in the intersection of **software development and cybersecurity**.
 
-I enjoy investigating security issues, analyzing technical findings and turning them into actionable insights. I combine a security-oriented mindset with experience in web development and digital product design.
+My focus is on building web applications while understanding how systems work, where vulnerabilities emerge, and how software can be made more secure.
 
-### `./featured_projects`
+I enjoy learning by building, testing, investigating and documenting — from application development to security analysis.
 
-**01 — Application Security Analysis**
+---
+
+## `$ ls ./projects`
+
+### `01` — Application Security Analysis
+
+**OWASP Juice Shop · SonarQube · SAST**
+
 ```text
-[ SAST ] ──> [ FINDINGS ] ──> [ CWE / OWASP ] ──> [ REMEDIATION ]
+SOURCE CODE → STATIC ANALYSIS → FINDINGS → SECURITY REVIEW
 ```
-Static analysis of OWASP Juice Shop using SonarQube and SonarScanner. Reviewed findings, classified five vulnerabilities and documented remediation recommendations in a technical report.
 
-`SonarQube` `SAST` `OWASP Top 10` `CWE`
+Performed static application security testing on OWASP Juice Shop using SonarQube and SonarScanner. Reviewed findings, classified five vulnerabilities using CWE and OWASP references, and documented remediation recommendations in a technical report.
 
-**02 — Materia | Virtual Showroom**
+`SAST` `OWASP Top 10` `CWE` `Vulnerability Analysis`
+
+### `02` — Materia | Immersive Virtual Showroom
+
+**RATI Hackathon 2026 · 🏆 1st Place**
+
 ```text
-[ REAL-WORLD BUSINESS ] ──> [ IMMERSIVE 3D EXPERIENCE ]
+BUSINESS NEED → DIGITAL EXPERIENCE → INTERACTIVE SHOWROOM
 ```
-Collaborative project developed for RATI Hackathon 2026, winning **1st place**. An immersive digital showroom concept designed to help businesses present physical products.
 
-`3D Experience` `Problem Solving` `Teamwork`
+Collaborative project exploring how immersive 3D experiences can help businesses showcase physical products through digital environments.
 
-**03 — Web Development & UX/UI**
+`Problem Solving` `Digital Innovation` `Teamwork`
+
+### `03` — Web Development & UX/UI
+
+**Frontend · Responsive Design · WordPress**
+
 ```text
-[ DESIGN ] ──> [ DEVELOPMENT ] ──> [ RESPONSIVE INTERFACES ]
+DESIGN → DEVELOPMENT → USER EXPERIENCE
 ```
-Experience building websites and digital interfaces, combining frontend development, responsive design and usability.
 
-`JavaScript` `React` `Angular` `HTML/CSS` `WordPress`
+Experience creating websites and digital interfaces, combining frontend development, responsive layouts and usability. Interested in connecting clean interfaces with maintainable implementation and secure development practices.
+
+`JavaScript` `React` `Angular` `HTML` `CSS` `WordPress`
 
 [Explore my portfolio →](https://panosettistefano.github.io/portfolio/)
 
-### `./tech_stack`
+---
 
-| Area | Tools & Technologies |
+## `$ tech_stack`
+
+| Domain | Technologies & Tools |
 |---|---|
-| **Security** | SonarQube, SonarScanner, OWASP, CWE |
-| **Programming** | Python, Java, C#, JavaScript |
-| **Systems & Networking** | Linux, Networking, Cisco Packet Tracer |
+| **Frontend** | JavaScript, React, Angular, HTML, CSS |
+| **Backend & Programming** | Java, Spring Boot, C#, Python |
 | **Databases** | MySQL, SQL Server, MongoDB |
-| **Development** | Git, GitHub, Docker |
-| **Web** | React, Angular, HTML, CSS, WordPress |
+| **Security** | SonarQube, SonarScanner, OWASP, CWE |
+| **Systems & Networking** | Linux, Networking, Cisco Packet Tracer |
+| **Tools & Workflow** | Git, GitHub, Docker |
 
-### `./current_focus`
+---
+
+## `$ current_focus`
 
 ```text
-> Threat Intelligence
-> OSINT & Security Research
-> Vulnerability Analysis
-> Application Security
+[ DEVELOPMENT ]
+  ├── Full-Stack Applications
+  ├── APIs & Databases
+  └── Software Architecture
+
+[ SECURITY ]
+  ├── Application Security
+  ├── OSINT & Threat Intelligence
+  └── Vulnerability Analysis
 ```
 
-### `./education`
+My goal is to grow as a developer who understands security from the inside out — writing software, understanding its weaknesses, and learning how to reduce them.
+
+---
+
+## `$ education`
 
 - **ITS Academy Abruzzo** — ICT, Architectures & Systems, Cybersecurity
 - **Bachelor's Degree** — Communication Sciences
@@ -78,7 +112,21 @@ Experience building websites and digital interfaces, combining frontend developm
 
 ---
 
-<p align="center">
-  <i>Curiosity is the starting point. Evidence is what matters.</i>
-</p>
+<div align="center">
+
+*Build it. Understand it. Secure it.*
+
+</div>
 ```
+
+
+
+
+
+
+
+
+
+
+
+
