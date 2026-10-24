@@ -47,7 +47,7 @@ Performed static application security testing on OWASP Juice Shop using SonarQub
 
 ### `02` — Materia | Immersive Virtual Showroom
 
-**RATI Hackathon 2026 · 🏆 1st Place**
+**RATI Hackathon 2026 · 1st Place**
 
 ```text
 BUSINESS NEED → DIGITAL EXPERIENCE → INTERACTIVE SHOWROOM
