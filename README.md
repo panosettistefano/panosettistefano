@@ -56,6 +56,7 @@ BUSINESS NEED → DIGITAL EXPERIENCE → INTERACTIVE SHOWROOM
 Collaborative project exploring how immersive 3D experiences can help businesses showcase physical products through digital environments.
 
 `Problem Solving` `Digital Innovation` `Teamwork`
+
 [Read the article](https://videocitta.media/2026/05/16/rati-immagina-il-futuro-premiati-a-lanciano-i-migliori-progetti-degli-studenti-abruzzesi/)
 
 ### `03` — Web Development & UX/UI
