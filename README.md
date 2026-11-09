@@ -45,6 +45,8 @@ Performed static application security testing on OWASP Juice Shop using SonarQub
 
 `SAST` `OWASP Top 10` `CWE` `Vulnerability Analysis`
 
+[Link Repo →](https://github.com/panosettistefano/OWASP_JUICE_SHOP_Sast-Analysis)
+
 ### `02` — Materia | Immersive Virtual Showroom
 
 **RATI Hackathon 2026 · 1st Place**
